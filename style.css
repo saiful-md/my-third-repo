@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ff8f90;
+}
+h1{
+    background-color: black;
+    color: lightblue;
+}
+img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
